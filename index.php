@@ -1,4 +1,3 @@
-<?php error_reporting( E_ALL ); ?>
 <?php include('utilities.php'); ?>
 <!DOCTYPE html>
 <html>
